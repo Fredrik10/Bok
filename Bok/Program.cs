@@ -8,8 +8,14 @@ namespace Bok
 {
     class Program
     {
+      
         static void Main(string[] args)
         {
+
+            Bok bok1 = new Bok();
+            bok1.skrivUt();
+
+            Console.ReadKey();
         }
     }
 }
