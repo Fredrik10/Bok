@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
  namespace  Bok
 {
-    //Fredrik H 
+    //Fredrik H Rafed
     class Bok
     {
         private string titel;
